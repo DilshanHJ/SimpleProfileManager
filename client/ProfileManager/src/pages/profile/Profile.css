@@ -1,0 +1,15 @@
+section.profile {
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+section.profile div {
+	background-color: rgba(240, 248, 255, 0.219);
+	margin-top: 64px;
+	padding: 24px;
+	border-radius: 12px;
+	max-width: 95%;
+	width: 380px;
+}

@@ -1,0 +1,30 @@
+.lp-main {
+	background-color: rgba(240, 248, 255, 0.116);
+	width: 80%;
+	max-width: 480px;
+	min-width: 320px;
+	height: 780px;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	padding-top: 12px;
+}
+
+.lp-main img {
+	width: 128px;
+}
+
+.lp-main button {
+	border: none;
+	background-color: transparent;
+	color: rgba(255, 255, 255, 0.87);
+	font-size: 16px;
+	align-self: last baseline;
+	margin-right: 58px;
+}
+.lp-main button:hover {
+	background-color: transparent;
+	color: rgb(12, 96, 165);
+}
